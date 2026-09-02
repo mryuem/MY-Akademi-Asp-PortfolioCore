@@ -1,5 +1,3 @@
-<img width="1583" height="464" alt="SocialList" src="https://github.com/user-attachments/assets/177bb6e0-5610-475b-ae94-2825d4e85659" /><img width="1609" height="375" alt="Admnİltsm" src="https://github.com/user-attachments/assets/02d21819-3741-4a1c-8622-31d8ee6bd139" />🎯 Proje Amacı Kendi portfolyo sitemi sıfırdan inşa ederek hem backend hem de frontend tarafında pratik kazanmak, aynı zamanda gerçek bir proje deneyimi elde etmek.
-
 🚀 Özellikler 🗂️ ASP.NET Core MVC mimarisi ile katmanlı yapı
 
 🛢️ Entity Framework Core ile veritabanı işlemleri
@@ -77,8 +75,8 @@ Admin Paneli Sayfaları:
 📍 Mesaj Listesi
 ------------------------------------------------
 
+<img width="1523" height="459" alt="MesajList" src="https://github.com/user-attachments/assets/e44daed7-94bd-4fb8-b466-b615ea96f053" />
 <img width="1595" height="555" alt="MesjList" src="https://github.com/user-attachments/assets/16a981d2-94c3-4d06-8980-fcddf30d8c55" />
-<img width="1595" height="555" alt="MesjList" src="https://github.com/user-attachments/assets/36d8f94e-6f8f-4a3b-b421-66261f364839" />
 
 ------------------------------------------------
 📍 Sosyal Medya Hesapları
