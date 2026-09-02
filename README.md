@@ -1,4 +1,4 @@
-🚀 Özellikler 🗂️ ASP.NET Core MVC mimarisi ile katmanlı yapı
+<img width="1889" height="826" alt="hakkımda" src="https://github.com/user-attachments/assets/b6c73685-85c6-4390-9c6d-9fb18c2d9399" />🚀 Özellikler 🗂️ ASP.NET Core MVC mimarisi ile katmanlı yapı
 
 🛢️ Entity Framework Core ile veritabanı işlemleri
 
@@ -72,11 +72,11 @@ Admin Paneli Sayfaları:
 <img width="1599" height="675" alt="İstatistikler" src="https://github.com/user-attachments/assets/bab76a4f-833b-4a71-a437-f1b069ed9397" />
 
 ------------------------------------------------
-📍 Mesaj Listesi
+📍 Mesaj Okuma & Listeleme
 ------------------------------------------------
 
-<img width="1523" height="459" alt="MesajList" src="https://github.com/user-attachments/assets/e44daed7-94bd-4fb8-b466-b615ea96f053" />
 <img width="1595" height="555" alt="MesjList" src="https://github.com/user-attachments/assets/16a981d2-94c3-4d06-8980-fcddf30d8c55" />
+<img width="1523" height="459" alt="MesajList" src="https://github.com/user-attachments/assets/e44daed7-94bd-4fb8-b466-b615ea96f053" />
 
 ------------------------------------------------
 📍 Sosyal Medya Hesapları
@@ -85,13 +85,44 @@ Admin Paneli Sayfaları:
 <img width="1583" height="464" alt="SocialList" src="https://github.com/user-attachments/assets/44b4a064-0b65-466c-8106-b204dddb2c5e" />
 
 
+------------------------------------------------
+🎨 Kullanıcı Arayüzü Paneli (UI) 
+------------------------------------------------
+
+Projenin kullanıcı arayüzünde kullanıcı deneyimini geliştirmek amacıyla çeşitli özellikler ve sayfalar geliştirilmiştir.
+
+📩 İletişim Formu: Kullanıcılar iletişim formu üzerinden mesaj gönderebilir.
+✅ Mesaj Gönderildi Bildirimi: Mesaj başarıyla gönderildiğinde kullanıcıya Mesaj gönderilmiştir şeklinde bir Alert bildirimi gösterilir.
+🚫 404 Hata Sayfası: Kullanıcıların bulunmayan sayfalara erişmesi durumunda özel olarak tasarlanmış 404 Not Found sayfası gösterilir.
+
+------------------------------------------------
+
+<img width="1889" height="845" alt="anasyf" src="https://github.com/user-attachments/assets/cec06f71-9a29-48d8-b146-814deec60c86" />
+
+![Uploading image.png…]()
+
+------------------------------------------------
+📍 İstatistikler
+------------------------------------------------
+
+<img width="1496" height="293" alt="istatistikler" src="https://github.com/user-attachments/assets/8d0be200-258b-4cb0-a7e0-b9fe6f8eb698" />
 
 
+------------------------------------------------
+📍 Hakkımda
+------------------------------------------------
 
+<img width="1889" height="826" alt="hakkımda" src="https://github.com/user-attachments/assets/5ba0225d-c26d-43f9-b140-e44fe57792d6" />
 
+------------------------------------------------
+📍 Yeteneklerim
+------------------------------------------------
 
+<img width="1575" height="555" alt="skill" src="https://github.com/user-attachments/assets/53092a9e-9217-4036-90ad-52a884b3b5d8" />
 
-
+------------------------------------------------
+📍 Mesaj Okuma & Listeleme
+------------------------------------------------
 
 
 
