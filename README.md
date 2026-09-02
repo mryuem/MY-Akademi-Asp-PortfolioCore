@@ -40,8 +40,6 @@ Admin Paneli Sayfaları:
 📍 Eğitimlerim
 ------------------------------------------------
 
-Kullanıcı burada, Eğitim hayatı ile ilgili bilgileri görüntüler. Dilerse CRUD İşlemleri yapabilir. Güncelle kısmında veriler ID'ye göre otomatik gelecektir
-
 <img width="1594" height="622" alt="AdmnEğtm" src="https://github.com/user-attachments/assets/e93fffa4-95c5-40a5-9616-2e2b4d12751f" />
 
 
