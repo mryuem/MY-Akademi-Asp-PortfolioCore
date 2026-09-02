@@ -21,3 +21,13 @@ Entity Framework Core
 MS SQL Server
 
 Bootstrap 5
+
+
+
+------------------------------------------------
+🧑🏻‍💻 Admin Paneli
+------------------------------------------------
+📍 Deneyimlerim
+------------------------------------------------
+Kullanıcı burada, sahip olduğu deneyimlerle ilgili bilgileri görüntüler. Dilerse CRUD İşlemleri yapabilir. Güncelle kısmında veriler ID'ye göre otomatik gelecektir
+------------------------------------------------
