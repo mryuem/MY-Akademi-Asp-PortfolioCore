@@ -1,0 +1,26 @@
+﻿@model List<WorkArea>
+@{
+    ViewData["Title"] = "WorkAreaList";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h2>Çalışma Alanlarım</h2>
+
+<table class="table table-bordered">
+
+    <tr>
+        <th>#</th>
+        <th>Çalışma Alanları</th>
+        <th>Sil</th>
+    </tr>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>@item.WorkAreaId</td>
+            <td>@item.WorkAreaName</td>
+            <td><a href="/WorkArea/DeleteWorkArea/@item.WorkAreaId" class="btn btn-danger">Sil</a></td>
+        </tr>
+    }
+</table>
+
+<a href="/WorkArea/CreatWorkArea/" class="btn btn-primary">Yeni Alan Ekle</a>

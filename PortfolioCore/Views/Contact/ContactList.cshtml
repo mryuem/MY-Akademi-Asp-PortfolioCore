@@ -1,0 +1,30 @@
+﻿@model Contact
+@{
+    ViewData["Title"] = "ContactList";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h2>İletişim Sayfası</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>#</th>
+        <th>Adı</th>
+        <th>Telefon</th>
+        <th>Email</th>
+        <th>Adres</th>
+        <th>Sil</th>
+    </tr>
+    
+     <tr>
+            <td>@Model.ContactId</td>
+            <td>@Model.Name</td>
+            <td>@Model.PhoneNumber</td>
+            <td>@Model.Email</td>
+            <td>@Model.Location</td>
+            <td><a href="/Contact/DeleteContact/@Model.ContactId" class="btn btn-danger">Sil</a></td>
+        </tr>
+    
+
+</table>
+<a href="/Contact/UpdateContact/@Model.ContactId" class="btn btn-success">Güncelle</a>

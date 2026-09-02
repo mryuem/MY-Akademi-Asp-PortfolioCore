@@ -1,0 +1,7 @@
+﻿@model List<PortfolioCore.Entities.WorkArea>
+
+<span class="typed"
+      data-typed-items="@string.Join(",", Model.Select(x => x.WorkAreaName))">
+</span>
+
+<span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span>
