@@ -26,10 +26,52 @@ Bootstrap 5
 
 ------------------------------------------------
 🧑🏻‍💻 Admin Paneli
+
+Admin panelinde toplam 9 adet sayfa bulunmaktadır. Kullanıcılar bu panel üzerinden uygulamanın içeriklerini yönetebilir, CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştirebilir ve site içerisindeki içeriklerde düzenlemeler yapabilir.
+
+Admin Paneli Sayfaları:
 ------------------------------------------------
 📍 Deneyimlerim
-------------------------------------------------
-Kullanıcı burada, sahip olduğu deneyimlerle ilgili bilgileri görüntüler. Dilerse CRUD İşlemleri yapabilir. Güncelle kısmında veriler ID'ye göre otomatik gelecektir
-------------------------------------------------
+
 <img width="1888" height="562" alt="admnDenymUpd" src="https://github.com/user-attachments/assets/2d690e00-1183-469e-8b97-281df38efada" />
 <img width="1891" height="686" alt="admnDeneym" src="https://github.com/user-attachments/assets/d346ef97-4a14-4ebe-89cc-9563c147f60f" />
+
+------------------------------------------------
+📍 Eğitimlerim
+------------------------------------------------
+
+Kullanıcı burada, Eğitim hayatı ile ilgili bilgileri görüntüler. Dilerse CRUD İşlemleri yapabilir. Güncelle kısmında veriler ID'ye göre otomatik gelecektir
+
+<img width="1594" height="622" alt="AdmnEğtm" src="https://github.com/user-attachments/assets/e93fffa4-95c5-40a5-9616-2e2b4d12751f" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
