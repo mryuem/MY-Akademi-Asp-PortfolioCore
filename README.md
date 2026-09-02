@@ -1,5 +1,3 @@
-<img width="1889" height="826" alt="hakkımda" src="https://github.com/user-attachments/assets/b6c73685-85c6-4390-9c6d-9fb18c2d9399" />🚀 Özellikler 🗂️ ASP.NET Core MVC mimarisi ile katmanlı yapı
-
 🛢️ Entity Framework Core ile veritabanı işlemleri
 
 ✏️ CRUD operasyonları (Projeler, Hakkımda, İletişim vb.)
@@ -94,19 +92,16 @@ Projenin kullanıcı arayüzünde kullanıcı deneyimini geliştirmek amacıyla 
 📩 İletişim Formu: Kullanıcılar iletişim formu üzerinden mesaj gönderebilir.
 ✅ Mesaj Gönderildi Bildirimi: Mesaj başarıyla gönderildiğinde kullanıcıya Mesaj gönderilmiştir şeklinde bir Alert bildirimi gösterilir.
 🚫 404 Hata Sayfası: Kullanıcıların bulunmayan sayfalara erişmesi durumunda özel olarak tasarlanmış 404 Not Found sayfası gösterilir.
-
+🗂️ Kategori Bazlı Proje Listeleme: Projeler, ait oldukları kategorilere göre filtrelenebilir.
 ------------------------------------------------
 
 <img width="1889" height="845" alt="anasyf" src="https://github.com/user-attachments/assets/cec06f71-9a29-48d8-b146-814deec60c86" />
-
-![Uploading image.png…]()
 
 ------------------------------------------------
 📍 İstatistikler
 ------------------------------------------------
 
 <img width="1496" height="293" alt="istatistikler" src="https://github.com/user-attachments/assets/8d0be200-258b-4cb0-a7e0-b9fe6f8eb698" />
-
 
 ------------------------------------------------
 📍 Hakkımda
@@ -121,8 +116,51 @@ Projenin kullanıcı arayüzünde kullanıcı deneyimini geliştirmek amacıyla 
 <img width="1575" height="555" alt="skill" src="https://github.com/user-attachments/assets/53092a9e-9217-4036-90ad-52a884b3b5d8" />
 
 ------------------------------------------------
-📍 Mesaj Okuma & Listeleme
+📍 Özgeçmiş
 ------------------------------------------------
+
+<img width="1894" height="838" alt="deneyimlerim" src="https://github.com/user-attachments/assets/04987698-c254-4348-934a-ed95efa34cb8" />
+
+------------------------------------------------
+📍 Projelerim
+------------------------------------------------
+
+<img width="1891" height="768" alt="projelerim" src="https://github.com/user-attachments/assets/34e72953-66ef-43af-9748-4199182811e4" />
+<img width="1880" height="680" alt="projelerim2" src="https://github.com/user-attachments/assets/36b8e435-bd91-4eb0-b7ed-9bd3f17aeab6" />
+
+------------------------------------------------
+📍 Hizmetlerim
+------------------------------------------------
+
+<img width="1679" height="907" alt="hizmetlerim" src="https://github.com/user-attachments/assets/a8363d20-68d6-4995-a93b-f6adaec7ae39" />
+
+------------------------------------------------
+📍 Referanslarim & Yorumlarim
+------------------------------------------------
+
+<img width="1540" height="584" alt="referanslar" src="https://github.com/user-attachments/assets/dc97665f-b7ab-460f-b458-c7c37b13db97" />
+
+------------------------------------------------
+📍 İletişim 
+------------------------------------------------
+
+<img width="1512" height="902" alt="iletsm" src="https://github.com/user-attachments/assets/d5a71759-b129-47b2-bb57-c394af27b910" />
+<img width="736" height="426" alt="msjiletildi" src="https://github.com/user-attachments/assets/2911ae97-cb95-41b5-9db4-5b0b55e21e7f" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
